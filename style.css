@@ -18,7 +18,7 @@
         rgba(0, 0, 0, 0.2) 80%,
         rgba(0, 0, 0, 0.8) 100%
       ),
-      url(/img/banner.png);
+      url(./img/banner.png);
     background-size: cover;
     padding: 0.26rem 0.75rem 0 0.75rem;
   }
